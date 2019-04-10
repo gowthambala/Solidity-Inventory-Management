@@ -1,5 +1,5 @@
 ## Smart-Contract-Solidity-Inventory-Management
-A simple smart contract written in solodiy code for an inventory management system to explore and playaround with Ethereum blockchain
+A simple smart contract written in solodity code for an inventory management system to explore and playaround with Ethereum blockchain
 
 ## INTRODUCTION
 This is a smart contract in solodity program that I wrote to play around with ethereum blockchains
